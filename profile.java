@@ -10,14 +10,14 @@ class profile {
 
         System.out.println("\tSTUDENT DETAILS");
 
-        System.out.println("*****************************");
-        System.out.println("Name        :" + name);
-        System.out.println("Roll Number :" + rollNumber);
-        System.out.println("Course      :" + course);
-        System.out.println("University  :" + university);
-        System.out.println("Date Of Join:" + dateOfJoin);
-        System.out.println("Mobile      :" + mobileNumber);
-        System.out.println("*****************************");
+        System.out.println("****************************************");
+        System.out.println("Name         :\t" + name);
+        System.out.println("Roll Number  :\t" + rollNumber);
+        System.out.println("Course       :\t" + course);
+        System.out.println("University   :\t" + university);
+        System.out.println("Date Of Join :\t" + dateOfJoin);
+        System.out.println("Mobile       :\t" + mobileNumber);
+        System.out.println("*****************************************");
         System.out.println("\tThank you");
 
     }
